@@ -1,6 +1,4 @@
 import boto3
-import pprint as pp
-import json
 import pandas as pd
 
 s3_client = boto3.client('s3')
